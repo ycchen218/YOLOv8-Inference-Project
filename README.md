@@ -22,8 +22,8 @@ python main.py
 
 ### Result
 1. Object Detection <br>
-![image](https://github.com/ycchen218/YOLOv8-Inference-Project/git_img/yolo_rgb_det.png)
+![image](https://github.com/ycchen218/YOLOv8-Inference-Project/blob/master/git_img/yolo_rgb_det.png)
 2. Object Segmentation <br>
-![image](https://github.com/ycchen218/YOLOv8-Inference-Project/git_img/yolo_rgb_seg.png)
+![image](https://github.com/ycchen218/YOLOv8-Inference-Project/blob/master/git_img/yolo_rgb_seg.png)
 3. Pose Estimate <br>
-![image](https://github.com/ycchen218/YOLOv8-Inference-Project/git_img/yolo_rgb_pos.png)
+![image](https://github.com/ycchen218/YOLOv8-Inference-Project/blob/master/git_img/yolo_rgb_pos.png)
